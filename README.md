@@ -6,7 +6,7 @@
 
 - 👋 Hi, I’m @MateoSantar
 - 👀 I’m interested in .NET/Java/Python/Web development and Cyber-Security
-- 📚 I’m currently learning .NET Development / Angular
+- 📚 I’m have knowledge in .NET Development / Angular / Python / Salesforce / Java
 - 😄 Pronouns: He/Him
 - 👨‍🎓 Studying at the Idra institude
 
