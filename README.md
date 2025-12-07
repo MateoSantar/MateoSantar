@@ -6,10 +6,10 @@
 
 - 👋 Hi, I’m @MateoSantar
 - 👀 I’m interested in .NET/Java/Python/Web development and Cyber-Security
-- 📚 I’m have knowledge in .NET Development / Angular / Python / Salesforce / Java
+- 📚 I’m have knowledge in .NET Development / Angular / Python / Salesforce / Java / Next.JS 
 - 😄 Pronouns: He/Him
 - 👨‍🎓 Studying at the Idra institude
-
+- 🧠 Always learning 
 <br><br>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
